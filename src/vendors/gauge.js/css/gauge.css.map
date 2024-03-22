@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "gauge.css",
+	"sources": [
+		"../../../scss/vendors/gauge.js/gauge.scss"
+	],
+	"sourcesContent": [
+		""
+	],
+	"names": [],
+	"mappings": ""
+}

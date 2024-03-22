@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "daterangepicker.css",
+	"sources": [
+		"../../../scss/vendors/daterangepicker/daterangepicker.scss"
+	],
+	"sourcesContent": [
+		".chart-legend,\r\n.bar-legend,\r\n.line-legend,\r\n.pie-legend,\r\n.radar-legend,\r\n.polararea-legend,\r\n.doughnut-legend {\r\n  list-style-type: none;\r\n  margin-top: 5px;\r\n  text-align: center;\r\n  -webkit-padding-start: 0;\r\n  -moz-padding-start: 0;\r\n  padding-left: 0;\r\n}\r\n\r\n.chart-legend li,\r\n.bar-legend li,\r\n.line-legend li,\r\n.pie-legend li,\r\n.radar-legend li,\r\n.polararea-legend li,\r\n.doughnut-legend li {\r\n  display: inline-block;\r\n  white-space: nowrap;\r\n  position: relative;\r\n  margin-bottom: 4px;\r\n  border-radius: 0.25rem;\r\n  padding: 2px 8px 2px 28px;\r\n  font-size: smaller;\r\n  cursor: default;\r\n}\r\n\r\n.chart-legend li span,\r\n.bar-legend li span,\r\n.line-legend li span,\r\n.pie-legend li span,\r\n.radar-legend li span,\r\n.polararea-legend li span,\r\n.doughnut-legend li span {\r\n  display: block;\r\n  position: absolute;\r\n  left: 0;\r\n  top: 0;\r\n  width: 20px;\r\n  height: 20px;\r\n  border-radius: 0.25rem;\r\n}\r\n\r\n/*# sourceMappingURL=daterangepicker.scss.map */"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,aAAa;AACb,WAAW;AACX,YAAY;AACZ,WAAW;AACX,aAAa;AACb,iBAAiB;AACjB,gBAAgB,CAAC;EACf,eAAe,EAAE,IAAI;EACrB,UAAU,EAAE,GAAG;EACf,UAAU,EAAE,MAAM;EAClB,qBAAqB,EAAE,CAAC;EACxB,kBAAkB,EAAE,CAAC;EACrB,YAAY,EAAE,CAAC;CAChB;;AAED,AAAA,aAAa,CAAC,EAAE;AAChB,WAAW,CAAC,EAAE;AACd,YAAY,CAAC,EAAE;AACf,WAAW,CAAC,EAAE;AACd,aAAa,CAAC,EAAE;AAChB,iBAAiB,CAAC,EAAE;AACpB,gBAAgB,CAAC,EAAE,CAAC;EAClB,OAAO,EAAE,YAAY;EACrB,WAAW,EAAE,MAAM;EACnB,QAAQ,EAAE,QAAQ;EAClB,aAAa,EAAE,GAAG;EAClB,aAAa,EAAE,OAAO;EACtB,OAAO,EAAE,gBAAgB;EACzB,SAAS,EAAE,OAAO;EAClB,MAAM,EAAE,OAAO;CAChB;;AAED,AAAA,aAAa,CAAC,EAAE,CAAC,IAAI;AACrB,WAAW,CAAC,EAAE,CAAC,IAAI;AACnB,YAAY,CAAC,EAAE,CAAC,IAAI;AACpB,WAAW,CAAC,EAAE,CAAC,IAAI;AACnB,aAAa,CAAC,EAAE,CAAC,IAAI;AACrB,iBAAiB,CAAC,EAAE,CAAC,IAAI;AACzB,gBAAgB,CAAC,EAAE,CAAC,IAAI,CAAC;EACvB,OAAO,EAAE,KAAK;EACd,QAAQ,EAAE,QAAQ;EAClB,IAAI,EAAE,CAAC;EACP,GAAG,EAAE,CAAC;EACN,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,aAAa,EAAE,OAAO;CACvB;;AAED,gDAAgD"
+}
